@@ -1,0 +1,29 @@
+* {
+  font-size: 30px;
+  font-family: Liberation Sans;
+}
+
+body {
+  margin: 0px;
+}
+
+.versno {
+  color: orange
+}
+.vers, .txt {
+  margin-bottom: 9px;
+  padding: 5px;
+}
+
+.vers {
+  color: blue;
+}
+
+object {
+  width: 100%;
+  display: block;
+}
+
+.vers b {
+  color: red;
+}
