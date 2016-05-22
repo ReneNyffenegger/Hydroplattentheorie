@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="600"
+   viewBox="0 0 1024 600.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Menge-des-Wassers.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8025662"
+     inkscape:cx="709.48016"
+     inkscape:cy="395.82715"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Meer 1"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <path
+       style="display:inline;fill:#73c8ff;fill-opacity:1;stroke:#0000fd;stroke-width:1.04795575;stroke-opacity:1"
+       id="path4150-8"
+       sodipodi:type="arc"
+       sodipodi:cx="468.30936"
+       sodipodi:cy="1123.9838"
+       sodipodi:rx="661.70917"
+       sodipodi:ry="661.70917"
+       sodipodi:start="4.2199918"
+       sodipodi:end="5.1997215"
+       sodipodi:open="true"
+       d="M 155.4932,540.88422 A 661.70917,661.70917 0 0 1 778.16831,539.3074" />
+  </g>
+  <g
+     inkscape:label="Erde 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path3336"
+       cx="436.23972"
+       cy="644.37097"
+       r="42.142857" />
+    <path
+       style="fill:#c5c4bd;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path4150"
+       sodipodi:type="arc"
+       sodipodi:cx="467.54752"
+       sodipodi:cy="1121.6383"
+       sodipodi:rx="631.42859"
+       sodipodi:ry="631.42859"
+       sodipodi:start="4.2705862"
+       sodipodi:end="5.1657355"
+       sodipodi:open="true"
+       d="m 197.56769,550.83803 a 631.42859,631.42859 0 0 1 546.53068,3.15454" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Beschriftung 1"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="252.28461"
+       y="542.19702"
+       id="text4220"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98817684,-0.15331839,0.15331839,0.98817684,0,0)"
+       inkscape:transform-center-x="-4.6819392"
+       inkscape:transform-center-y="2.7832084"><tspan
+         sodipodi:role="line"
+         id="tspan4222"
+         x="252.28461"
+         y="542.19702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1">2,27 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-405.28632"
+       y="-170.54527"
+       id="text4224"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4226"
+         x="-405.28632"
+         y="-170.54527" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Gap"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4308"
+       width="705.43634"
+       height="56.58942"
+       x="122.04792"
+       y="531.59174"
+       ry="2.4920053" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Meer 2"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <path
+       style="display:inline;fill:#73c8ff;fill-opacity:1;stroke:#0000fd;stroke-width:1.04795575;stroke-opacity:1"
+       id="path4150-8-5"
+       sodipodi:type="arc"
+       sodipodi:cx="464.68842"
+       sodipodi:cy="1220.1639"
+       sodipodi:rx="661.70917"
+       sodipodi:ry="661.70917"
+       sodipodi:start="4.1943807"
+       sodipodi:end="5.1976791"
+       sodipodi:open="true"
+       d="M 137.04266,645.26632 A 661.70917,661.70917 0 0 1 773.35258,634.85594" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Erde 2"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <path
+       style="display:inline;fill:#c5c4bd;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path4150-87"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="-1220.0753"
+       sodipodi:cy="464.73264"
+       sodipodi:rx="613"
+       sodipodi:ry="613"
+       sodipodi:start="5.98585"
+       sodipodi:end="0.28686299"
+       d="m -633.97341,285.13989 a 613,613 0 0 1 1.84858,353.03791"
+       sodipodi:open="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ueber Meer"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <path
+       style="fill:#c5c4bd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 616.89107,564.8776 -15.77695,66.18507 187.5431,-0.54093 z"
+       id="path4308"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="display:inline;fill:#c5c4bd;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="path4150-87-4"
+       transform="matrix(0,-1,1,0,0,0)"
+       sodipodi:type="arc"
+       sodipodi:cx="-1219.592"
+       sodipodi:cy="465.00961"
+       sodipodi:rx="672"
+       sodipodi:ry="672"
+       sodipodi:start="0.229066"
+       sodipodi:end="0.50515238"
+       d="m -565.14542,617.59932 a 672,672 0 0 1 -66.37892,172.61851"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 617.11134,564.65733 -13.21586,58.59031"
+       id="path4310"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="627.22845"
+       y="477.95093"
+       id="text4220-3-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99013004,0.14015173,-0.14015173,0.99013004,0,0)"
+       inkscape:transform-center-x="-7.3640648"
+       inkscape:transform-center-y="-0.055955347"><tspan
+         sodipodi:role="line"
+         id="tspan4222-4-5"
+         x="627.22845"
+         y="477.95093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">840m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="887.93195"
+       y="205.52173"
+       id="text4220-3-0-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.89352988,0.44900374,-0.44900374,0.89352988,0,0)"
+       inkscape:transform-center-x="-7.001583"
+       inkscape:transform-center-y="2.2979068"><tspan
+         sodipodi:role="line"
+         id="tspan4222-4-5-9"
+         x="887.93195"
+         y="205.52173"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">29%</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Beschriftung 2"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="238.12326"
+       y="649.4892"
+       id="text4220-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98817684,-0.15331839,0.15331839,0.98817684,0,0)"
+       inkscape:transform-center-x="-4.6819392"
+       inkscape:transform-center-y="2.7832084"><tspan
+         sodipodi:role="line"
+         id="tspan4222-4"
+         x="238.12326"
+         y="649.4892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1">3,68 km</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="584.44952"
+       y="691.24316"
+       id="text4521"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4523"
+         x="584.44952"
+         y="691.24316">  W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-10.14712"
+       y="640.15778"
+       id="text4220-3-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.91933469,-0.39347647,0.39347647,0.91933469,0,0)"
+       inkscape:transform-center-x="-5.2580033"
+       inkscape:transform-center-y="1.5407974"><tspan
+         sodipodi:role="line"
+         id="tspan4222-4-1"
+         x="-10.14712"
+         y="640.15778"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1">71%</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="foo"
+     style="display:inline"
+     transform="translate(0,-452.36218)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect4320"
+       width="688.86267"
+       height="158.53708"
+       x="125.19738"
+       y="630.17279"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Wassermenge"
+     transform="translate(0,100)">
+    <image
+       sodipodi:absref="/home/rene/github/github/Hydroplattentheorie/res/global-water-volume-fresh.jpg"
+       xlink:href="global-water-volume-fresh.jpg"
+       width="360"
+       height="360"
+       preserveAspectRatio="none"
+       id="image4501"
+       x="178.16905"
+       y="134.73828" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="546.65271"
+       y="209.60085"
+       id="text4517"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4519"
+         x="546.65271"
+         y="209.60085"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Alles Wasser (ohne Erdkruste),</tspan><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="237.72585"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4554" /><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="265.85083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4525">Süsswasser,</tspan><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="293.97583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4556" /><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="322.10083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4527">Süsswasser in</tspan><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="350.22583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4552">Flüssen und Seen</tspan><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="378.35083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4529" /><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="406.47583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4535" /><tspan
+         sodipodi:role="line"
+         x="546.65271"
+         y="434.60083"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4537" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="546.50153"
+       y="431.57986"
+       id="text4544"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4546"
+         x="546.50153"
+         y="431.57986"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Credit Howard Perlman, USGC</tspan><tspan
+         sodipodi:role="line"
+         x="546.50153"
+         y="450.32986"
+         id="tspan4548"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Illustration von Jack Cook, Woods Hole</tspan><tspan
+         sodipodi:role="line"
+         x="546.50153"
+         y="469.07986"
+         id="tspan4550"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Oceanographic Institution</tspan></text>
+  </g>
+</svg>
