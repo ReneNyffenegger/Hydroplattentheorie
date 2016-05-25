@@ -1224,6 +1224,36 @@
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
          transform="matrix(-0.8,0,0,-0.8,-10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6333-77-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6080-0-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6333-26"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6080-91"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1232,11 +1262,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="475.09814"
-     inkscape:cy="182.15306"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="628.96931"
+     inkscape:cy="-26.836364"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="px"
      inkscape:window-width="1855"
@@ -1253,7 +1283,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1271,12 +1301,13 @@
        x="40.583977"
        y="108.034"
        ry="0" />
-    <path
-       style="fill:#646464;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 37.691363,374.05532 312.269767,0 78.06745,0 c 0,0 68.73925,-10.61785 102.42328,-19.06752 17.65131,-4.42785 34.57466,-11.39082 52.03372,-16.52463 19.822,-5.82863 39.86484,-10.879 59.82842,-16.20256 27.49734,-7.33254 54.46959,-17.22087 82.57661,-21.67792 34.99953,-5.55003 70.71163,-5.09388 106.13298,-6.14172 36.98866,-1.09421 74.5264,-6.31218 111.01441,-0.14912 21.27682,3.59379 42.25767,15.75808 61.1148,21.3437 18.857,5.58562 2.434,42.33674 2.434,42.33674 l 9.6441,77.60641 -977.539537,-4 z"
-       id="rect7123"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccaaaaaascccc" />
+    <rect
+       style="opacity:1;fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect14861"
+       width="959"
+       height="57"
+       x="38.707108"
+       y="378" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1321,7 +1352,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Sedimente"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <ellipse
        style="display:inline;fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path7763-047"
@@ -6304,8 +6336,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Riss"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:none;fill-opacity:1;stroke:#ffc8ff;stroke-width:200;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6029"
@@ -6407,21 +6438,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.11678123px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="769.07043"
-       y="346.52371"
+       x="778.26282"
+       y="409.45621"
        id="text22273-2-12"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="769.07043"
-         y="346.52371"
+         x="778.26282"
+         y="409.45621"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.55839062px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
          id="tspan22295-3">Ozeanische Kruste</tspan></text>
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.03375864;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6333-77)"
-       d="m 844.7448,286.1098 0.51343,-95.04842"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6333-77)"
+       d="m 844.03769,383.69053 1.22054,-192.62915"
        id="path6059-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.03375864;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6333-26)"
+       d="m 92.244901,290.52249 c -2.87617,80.53274 -2.87617,80.53274 -2.87617,80.53274"
+       id="path6059-2"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"

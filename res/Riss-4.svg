@@ -1233,10 +1233,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="532.63999"
+     inkscape:cx="383.63999"
      inkscape:cy="62.20533"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
      inkscape:window-width="1855"
@@ -1253,7 +1253,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1261,27 +1261,28 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Hintergrund"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect7127"
-       width="925.84283"
-       height="272.79523"
+       width="931.84283"
+       height="275.79523"
        x="46.162048"
        y="75.148987" />
-    <path
-       style="fill:#646464;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 50.745758,345.12396 460.629542,0 115.15739,0 c 0,0 78.61169,0.58211 117.15739,-6 19.72642,-3.36851 38.11142,-12.36277 57.57869,-17 32.49369,-7.74021 65.34618,-14.63086 98.57869,-18 15.45061,-1.5664 31.09725,-2.22469 46.5787,-1 9.31366,0.73678 21.64959,-2.22031 27.57869,5 25.78021,31.3945 -2,121.85282 -2,121.85282 l -921.259092,0 z"
-       id="rect7123"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccaaaaaccc" />
+    <rect
+       style="opacity:1;fill:#646464;fill-opacity:1;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       id="rect12361"
+       width="923"
+       height="84"
+       x="54"
+       y="348" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Fontäne"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="display:inline;fill:#0096ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 976.38361,310.39982 992.47776,0.33068993 596.92164,1.1284479 669.01111,165.69247"
