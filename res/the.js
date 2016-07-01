@@ -1,9 +1,20 @@
-function manipulateSlide() {
+function manipulateSlide(opts) {
+
 
   var slide = document.getElementById('slide');
 
   var bottom = document.createElement('div');
-  bottom.innerHTML = "<div id='bottom'><a id='index' href='Inhaltsverzeichnis.html'>Inhalt</a></div>";
+
+  var htmlText = "<div id='bottom'>";
+  htmlText += "<a href='Inhaltsverzeichnis.html'>Inhalt</a>";
+
+
+  if (opts.next) {
+    htmlText += " → <a href='" + opts.next[0] + "'>" + opts.next[1] + "</a>";
+  }
+  
+  htmlText += "</div>";
+  bottom.innerHTML = htmlText;
 
   slide.appendChild(bottom);
 }
