@@ -1,3 +1,8 @@
+#
+#  Input file
+#    Grand-Canyon-and-Hopi-Lake.nc
+#  created with:
+#    https://github.com/ReneNyffenegger/about-GMT/blob/master/SRTM/create-Grand-Canyon_Grand-and-Hopi-Lake-grid.sh
 grdcut /var/tmp/about-GMT/SRTM/Grand-Canyon-and-Hopi-Lake.nc -R-114/-107.5/34.4/40 -GHopi-Grand-Lake.nc -V
 
 # grdsample Hopi-Grand-Lake_.nc -I800+/689+ -GHopi-Grand-Lake.nc
