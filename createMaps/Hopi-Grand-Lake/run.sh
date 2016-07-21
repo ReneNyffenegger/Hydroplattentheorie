@@ -82,6 +82,7 @@ LAKE
   
   grdmath Hopi-Grand-Lake-without-lake.hist 5.5 DIV = Hopi-Grand-Lake-without-lake.norm
   
+# TODO: -Jx3c should probably be -JM...
   grdimage     Hopi-Grand-Lake.nc -Clake_level.cpt -IHopi-Grand-Lake-without-lake.norm       -Jx3c  > $NAME_LAKE.ps
 # grdcontour   Hopi-Grand-Lake.nc -Ccontour.d      -A+r3c                                 -O -J    >> $NAME_LAKE.ps
 
