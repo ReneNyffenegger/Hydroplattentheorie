@@ -1,0 +1,11 @@
+*.ps
+*.png
+*.xcf
+*.pgw
+*.profile
+*.track
+gmt.history
+grand-lake.lvl
+img.grad
+img.hist
+img.nc
