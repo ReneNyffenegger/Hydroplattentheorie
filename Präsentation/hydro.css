@@ -31,3 +31,15 @@ object {
 .vers b {
   color: red;
 }
+
+#bottom {
+  border-top:1px solid #0033f0;
+  background-color:#e7f3ff;
+  position:absolute;
+  bottom:0px;
+  width: 100%;
+}
+
+ul {
+  margin-top: 0px;
+}
