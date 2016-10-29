@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="500"
+   viewBox="0 0 1000 500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Erdachsenverschiebung_45_grad.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path7000"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#32ffff;stroke-width:1pt;stroke-opacity:1;fill:#32ffff;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="342.41545"
+     inkscape:cy="213.09137"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1138"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     objecttolerance="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-552.36219)"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\github\Hydroplattentheorie\res\Erdachsenverschiebung_45_grad.png"
+       xlink:href="Erdachsenverschiebung_45_grad.png"
+       width="495.55783"
+       height="503.95712"
+       preserveAspectRatio="none"
+       id="image6961"
+       x="-1.3522059"
+       y="551.94946" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none;opacity:0.65700001"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="C:\temp\eav.png"
+       y="-0.53191131"
+       x="-3.6033831"
+       id="image4717"
+       xlink:href="file:///C:/temp/eav.png"
+       preserveAspectRatio="none"
+       height="502.52829"
+       width="507.93185" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#32ffff;stroke-width:4.50699997;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7395"
+       sodipodi:type="arc"
+       sodipodi:cx="247.48737"
+       sodipodi:cy="267.00833"
+       sodipodi:rx="241.83051"
+       sodipodi:ry="32.880466"
+       sodipodi:start="0"
+       sodipodi:end="3.1700921"
+       sodipodi:open="true"
+       d="M 489.31787,267.00833 A 241.83051,32.880466 0 0 1 366.40763,295.63854 241.83051,32.880466 0 0 1 122.61506,295.16617 241.83051,32.880466 0 0 1 5.7550633,266.07138" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path6964"
+       sodipodi:type="arc"
+       sodipodi:cx="35.973938"
+       sodipodi:cy="361.42883"
+       sodipodi:rx="242.79611"
+       sodipodi:ry="45.538616"
+       sodipodi:start="0.15382408"
+       sodipodi:end="3.1193218"
+       d="M 275.90321,368.40618 A 242.79611,45.538616 0 0 1 20.015146,406.86897 242.79611,45.538616 0 0 1 -206.76196,362.44293"
+       transform="matrix(0.78019014,-0.62554244,0.62554244,0.78019014,0,0)"
+       sodipodi:open="true" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c8ff64;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 143.5,139.50001 c 2,0 48.99999,0 48.99999,0"
+       id="path6968"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#c8ff64;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 145,125.50001 47.49999,8"
+       id="path6968-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#32ffff;stroke-width:3.96612954;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       id="path6985"
+       sodipodi:type="arc"
+       sodipodi:cx="249.58382"
+       sodipodi:cy="215.75398"
+       sodipodi:rx="250.97174"
+       sodipodi:ry="192.37918"
+       sodipodi:start="4.0429474"
+       sodipodi:end="4.6824657"
+       sodipodi:open="true"
+       d="M 93.843757,64.896325 A 250.97174,192.37918 0 0 1 242.07504,23.460924" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff2800;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 95.459418,67.250659 62.932502,29.774003"
+       id="path7393"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="125.24399"
+       y="73.815865"
+       id="text7397"
+       sodipodi:linespacing="100%"
+       transform="matrix(0.956675,-0.29115794,0.29115794,0.956675,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan7399"
+         x="125.24399"
+         y="73.815865"
+         style="fill:#32ffff;fill-opacity:1">45°</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="521.1377"
+       y="40.380604"
+       id="text7533"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan7535"
+         x="521.1377"
+         y="40.380604">Alter Nordpol: in heutigen</tspan><tspan
+         sodipodi:role="line"
+         x="521.1377"
+         y="60.380604"
+         id="tspan7537">Koordinaten: ca 90°E, 45° N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="519.85913"
+       y="110.22829"
+       id="text7533-2"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="519.85913"
+         y="110.22829"
+         id="tspan7562">Beachte 90 East Ridge</tspan></text>
+  </g>
+</svg>
