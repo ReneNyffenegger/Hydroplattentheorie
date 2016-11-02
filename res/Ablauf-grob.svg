@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="502.27589"
-     inkscape:cy="342.00732"
+     inkscape:zoom="1"
+     inkscape:cx="478.09628"
+     inkscape:cy="190.72794"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g4643"
      showgrid="false"
      units="px"
      inkscape:window-width="1855"
@@ -453,7 +453,7 @@
            y="231.64713"
            x="563.20013"
            id="tspan4334-7-8-6-1"
-           sodipodi:role="line">Plateaus</tspan></text>
+           sodipodi:role="line">Plateaus, Meeresspiegelanstieg</tspan></text>
     </g>
     <g
        id="g4638"
@@ -678,5 +678,28 @@
          id="tspan4334-7-8-6-8"
          x="573.94971"
          y="118.88102">Stauchung: Anden</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.05718,276.75149 96.47056,0"
+       id="path4369-5-06"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="159.49115"
+       y="273.27307"
+       id="text4332-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4334-3-4"
+         x="159.49115"
+         y="273.27307">Krustenflattern</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4275"
+       d="m 159.05718,276.75149 96.47056,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
