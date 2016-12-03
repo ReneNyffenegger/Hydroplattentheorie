@@ -1,0 +1,8 @@
+# vim: ft=sh
+for img in /home/rene/Digitales-Backup/Biblisches/Vorträge/Hydroplate/Images/*; do
+    imgBase=`basename $img`
+    if [ ! -e $imgBase ]; then
+       echo "cp $img"
+       cp $img $imgBase
+    fi
+done
