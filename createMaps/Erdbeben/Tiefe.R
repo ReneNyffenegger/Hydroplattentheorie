@@ -7,7 +7,7 @@ x11()
 hist(depths, main='Erdbebentiefen (2015, Mag >= 5)', xlab='Tiefe (km)', ylab='')
 z <- locator(1)
 
-depths <- depths[depths > 100]
+depths <- depths[depths > 150]
 
-hist(depths, main='Erdbebentiefen (2015, Mag >= 5, Tiefe>100 km)', xlab='Tiefe (km)', ylab='')
+hist(depths, main='Erdbebentiefen (2015, Mag >= 5, Tiefe>150 km)', xlab='Tiefe (km)', ylab='')
 z <- locator(1)
