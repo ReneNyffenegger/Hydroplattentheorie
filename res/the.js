@@ -6,7 +6,7 @@ function manipulateSlide(opts) {
   var bottom = document.createElement('div');
 
   var htmlText = "<div id='bottom'>";
-  htmlText += "<a href='Inhaltsverzeichnis.html'>Inhalt</a>";
+  htmlText += "<a href='index.html'>Inhalt</a>";
 
 
   if (opts.next) {
