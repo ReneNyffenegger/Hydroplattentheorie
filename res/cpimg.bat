@@ -1,4 +1,4 @@
-For %%F In ( x:\Digitales-Backup\Biblisches\Vorträge\Hydroplate\Images\* )  do @(
+For %%F In ( %digitales_backup%Biblisches\Vorträge\Hydroplate\Images\* )  do @(
   if not exist "%%~nxF" @(
     echo copying %%F
     @copy %%F . > nul
