@@ -9,7 +9,7 @@ my %htmls;
 
 for my $html (glob '*.html') {
 
-  if ($html eq 'index.html') {
+  if ($html eq 'index.html') { #_{
 
     open my $in, '<:encoding(utf-8)', $html or die;
     while (my $line = <$in>) {
@@ -27,7 +27,7 @@ for my $html (glob '*.html') {
     }
     close $in;
     next;
-  }
+  } #_}
 
   my ($html_) = $html =~ /(.*)\.html$/;
   $html_ = "S_$html_";
@@ -37,7 +37,7 @@ for my $html (glob '*.html') {
 
   my $title;
   my $to;
-  while (my $line = <$in>) {
+  while (my $line = <$in>) { #_{
     if ($line =~ m!<title>(.*)</title>!) {
       $title = $1;
     }
@@ -47,13 +47,14 @@ for my $html (glob '*.html') {
       $to =~ s/-/_/g;
 
     }
-  }
+  } #_}
   close $in;
   
 
-  if ($to) {
-    $htmls{$to}{title} = $title;
-  }
+  $htmls{$html_}{title} = $title;
+# if ($to) {
+#   $htmls{$to}{title} = $title;
+# }
 
 #  print $dot "$html_ [
 #  shape=plaintext;
