@@ -7,12 +7,17 @@ body {
   margin: 0px;
 }
 
+
 .versno {
   color: orange
 }
 .vers, .txt {
   margin-bottom: 9px;
   padding: 5px;
+}
+
+tr {
+  vertical-align: top
 }
 
 .title {
