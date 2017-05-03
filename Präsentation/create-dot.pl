@@ -41,7 +41,7 @@ for my $html (glob '*.html') {
     if ($line =~ m!<title>(.*)</title>!) {
       $title = $1;
     }
-    if ($line =~ m!next: *\['(.*)\.html',!) {
+    if ($line =~ m!^ *manipulateSlide\(\{next: *\['(.*)\.html',!) {
       $to = $1;
       $to = "S_$to";
       $to =~ s/-/_/g;
