@@ -17,9 +17,11 @@ for my $html (glob '*.html') {
       while ($line =~ s/<a href=["'](.*?)\.html["']//) {
 
         my $to = $1;
-        $to = "S_$to";
-        $to =~ s/-/_/g;
 
+#       my $dot_id = "S_$to";
+#       $dot_id =~ s/-/_/g;
+
+#       $htmls{$to}{dot_id} = $dot_id;
         $htmls{$to}{indexed} = 1;
 
       }
@@ -37,21 +39,32 @@ for my $html (glob '*.html') {
 
   my $title;
   my $to;
+  my $dot_id;
   while (my $line = <$in>) { #_{
-    if ($line =~ m!<title>(.*)</title>!) {
+    if ($line =~ m!<title>(.*)</title>!) { #_{
       $title = $1;
-    }
-    if ($line =~ m!^ *manipulateSlide\(\{next: *\['(.*)\.html',!) {
-      $to = $1;
-      $to = "S_$to";
-      $to =~ s/-/_/g;
+    } #_}
+    if ($line =~ m!^ *manipulateSlide\(\{next: *\['(.*)\.html',!) { #_{
 
-    }
+        $to = $1;
+
+        $dot_id = "S_$to";
+        $dot_id =~ s/-/_/g;
+
+        $htmls{$to}{dot_id} = $dot_id;
+        $htmls{$to}{title} = $title;
+#       $htmls{$to}{indexed} = 1;
+
+#     $to = $1;
+#     $to = "S_$to";
+#     $to =~ s/-/_/g;
+
+    } #_}
   } #_}
   close $in;
   
 
-  $htmls{$html_}{title} = $title;
+# $htmls{$to}{dot_id} = $dot_id;
 # if ($to) {
 #   $htmls{$to}{title} = $title;
 # }
@@ -65,13 +78,19 @@ for my $html (glob '*.html') {
 #";
 #
   if ($to) {
-    print $dot "$html_ -> $to;\n";
+    print $dot "$html_ -> $dot_id;\n";
   }
 
 
 }
 
 for my $html_ (keys %htmls) {
+
+# # print "$html_\n";
+#   print "$html_ \t $htmls{$html_}{dot_id}\n";
+# # print join "\n", keys $htmls{$html_};
+#   print "\n\n";
+#   next;
 
   my $color='';
   if ($htmls{$html_}{indexed}) {
@@ -80,7 +99,7 @@ for my $html_ (keys %htmls) {
 
   my $title = $htmls{$html_}{title} // '?';
 
-  my $shape = "  $html_ [
+  my $shape = "  $htmls{$html_}{dot_id} [
   shape=plaintext $color
    label=< <table>
      <tr><td>$title</td></tr>
