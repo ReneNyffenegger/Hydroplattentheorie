@@ -74,6 +74,8 @@ for my $dot_id (keys %dot_boxes) { #_{
   my $title     = $dot_boxes{$dot_id}{title_html} // '?';
   my $html_file = $dot_boxes{$dot_id}{html_file};
 
+  print "dot_id: $dot_id\n" unless $html_file;
+
   my $shape = "  $dot_id [
   shape=plaintext $color
    label=< <table>
