@@ -45,6 +45,7 @@ for my $html (glob '*.html') { #_{
 
         my $to = $1;
         my $to_dot_id = make_dot_id($to);
+        $dot_boxes{$html_dot_id}{next_slide} = $to_dot_id;
         print $dot "$html_dot_id -> $to_dot_id;\n";
 
     } #_}
@@ -53,16 +54,6 @@ for my $html (glob '*.html') { #_{
 
 } #_}
 
-sub make_dot_id { #_{
-  my $html_file_name = shift;
-
-  $html_file_name =~ s/\.html$//;
-  $html_file_name = "S_$html_file_name";
-  $html_file_name =~ s/-/_/g;
-
-  return $html_file_name;
-
-} #_}
 
 for my $dot_id (keys %dot_boxes) { #_{
   
@@ -93,3 +84,30 @@ for my $dot_id (keys %dot_boxes) { #_{
 print $dot "}\n";
 close $dot;
 system "dot ablauf.dot -Tpdf -oablauf.pdf";
+
+iterate_presentation();
+
+sub iterate_presentation { #_{
+
+  my $cur_slide = make_dot_id('Hydroplattentheorie.html');
+
+  while ((my $next_slide = $dot_boxes{$cur_slide}{next_slide}) ne make_dot_id('The-End.html')) {
+    print $next_slide, "\n";
+    $cur_slide = $next_slide;
+  }
+
+
+} #_}
+
+sub make_dot_id { #_{
+  my $html_file_name = shift;
+
+  $html_file_name =~ s/\.html$//;
+  $html_file_name = "S_$html_file_name";
+  $html_file_name =~ s/-/_/g;
+
+  return $html_file_name;
+
+} #_}
+
+
